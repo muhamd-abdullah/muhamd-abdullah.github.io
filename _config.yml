@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuanqi Du's Personal Website"
+title                    : "Muhammad Abdullah's Personal Website"
 title_separator          : "-"
-name                     : &name "Yuanqi Du"
+name                     : &name "Muhammad Abdullah"
 description              : &description "personal description"
 url                      : https://yuanqidu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yuanqidu/yuanqidu.github.io"
+repository               : "muhamd-abdullah/muhamd-abdullah.github.io"
 teaser                   :  "site_logo.png"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : YuanqiD
+  username               : muhamd-abdullah
 facebook:
   username               :
   app_id                 :
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuanqi Du"
+  name             : "Muhammad Abdullah"
   avatar           : "avatar.jpg"
-  bio              : "PhD Student, Cornell University"
-  location         : "Ithaca, NY"
+  bio              : "PhD Student, EPFL"
+  location         : "Lausanne, Switzerland"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=fAc_zZMAAAAJ&hl=en"
-  email            : "yuanqidu@cs.cornell.edu"
+  email            : "muhammad.abdullah@epfl.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://yuanqidu.github.io/"
+  uri              : "https://github.com/muhamd-abdullah/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yuanqidu"
+  github           : "muhamd-abdullah"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yuanqi-du-523968148"
+  linkedin         : "muhammad-abdullah-47305910b"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "YuanqiD"
+  twitter          : "X"
   vine             :
   weibo            :
   xing             :
