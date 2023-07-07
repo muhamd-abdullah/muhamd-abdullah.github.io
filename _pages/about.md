@@ -87,13 +87,16 @@ Work Experience
 Publications
 ======
 * [Causal Impact of Android Go on Mobile Web Performance](https://dl.acm.org/doi/abs/10.1145/3517745.3561456).  
-**Muhammad Abdullah**, Zafar Ayyub Qazi, Ihsan Ayyub Qazi <p><strong style="color: red;">Internet Measurement Conference (IMC) 2023</strong></p>
+**Muhammad Abdullah**, Zafar Ayyub Qazi, Ihsan Ayyub Qazi 
+<strong style="color: red;">Internet Measurement Conference (IMC) 2023</strong>
 
 * [Rethinking Web for Affordability and Inclusion](https://dl.acm.org/doi/abs/10.1145/3484266.3487376).  
-Ihsan Ayyub Qazi, Zafar Ayyub Qazi, Ayesha Ali, **Muhammad Abdullah**, Rumaisa Habib <p><strong style="color: red;">Hot Topics in Networks (HotNets) 2021</strong></p>
+Ihsan Ayyub Qazi, Zafar Ayyub Qazi, Ayesha Ali, **Muhammad Abdullah**, Rumaisa Habib
+<strong style="color: red;">Hot Topics in Networks (HotNets) 2021</strong>
 
 * [Using Application Layer Banner Data to Automatically Identify IoT Devices](https://dl.acm.org/doi/abs/10.1145/3411740.3411744).  
-Ihsan Ayyub Qazi, Zafar Ayyub Qazi, Ayesha Ali, **Muhammad Abdullah**, Rumaisa Habib <p><strong style="color: red;">SIGCOMM Computer Communication Review (CCR) 2020</strong></p>
+Ihsan Ayyub Qazi, Zafar Ayyub Qazi, Ayesha Ali, **Muhammad Abdullah**, Rumaisa Habib 
+<strong style="color: red;">SIGCOMM Computer Communication Review (CCR) 2020</strong>
 
 <br>
 
@@ -101,7 +104,6 @@ Teaching
 ======
 * [CS332: Introduction to Database Systems](https://edu.epfl.ch/coursebook/en/introduction-to-database-systems-CS-322).  
 Spring 2023 TA, EPFL
-
 * [COM208: Computer Networks](https://edu.epfl.ch/coursebook/en/computer-networks-COM-208).  
 Fall 2022 TA, EPFL
 
@@ -111,10 +113,8 @@ Talks
 ======
 * [Presented our paper "Causal impact of Android go on mobile web performance"](https://dl.acm.org/doi/abs/10.1145/3517745.3561456)
 Internet Measurement Conference (IMC) at Nice, France  <span style="color:#808080;">(Oct 2022)</span>
-
 * [A Primer on Zeek IDS](https://www.nccs.pk/Information/Workshops)
 National Centre for Cyber Security at Lahore, Pakistan <span style="color:#808080;">(Oct 2020)</span>
-
 * [Network Automation with Brocade Workflow Composer](https://cds.cern.ch/record/2280120)
 Lightning Talks at CERN, Switzerland <span style="color:#808080;">(Jul 2017)</span>
 
