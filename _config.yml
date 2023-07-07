@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=SxnZgTMAAAAJ&hl=en"
   email            : "muhammad.abdullah@epfl.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://github.com/muhamd-abdullah/"
+  uri              : "https://people.epfl.ch/muhammad.abdullah?lang=en"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "X"
+  twitter          : #"X"
   vine             :
   weibo            :
   xing             :
