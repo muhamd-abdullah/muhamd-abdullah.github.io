@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-I'm a Ph.D. student at the [Network Architecture Lab (NAL)](https://www.epfl.ch/labs/nal/), [EPFL](https://www.epfl.ch/en/), supervised by [Dr. Katerina Argyraki](https://people.epfl.ch/katerina.argyraki). Previously, I worked at [Network and Systems Group (NSG@LUMS)](https://nsg.lums.edu.pk/) in [LUMS](https://lums.edu.pk/), Pakistan and supervised by [Dr. Ihsan Qazi](https://www.ihsanqazi.com/) and [Dr. Zafar Qazi](https://web.lums.edu.pk/~zafar/). My research interests broadly lie in Internet measurement, network neutrality, and network performance inference. In short, I attempt to make the Internet more transparent. Currently, I'm working on network neutrality in the context of Cloud and CDNs. Please feel free to drop me an email if you have aligned interests.
+I'm a Ph.D. student at the [Network Architecture Lab (NAL)](https://www.epfl.ch/labs/nal/), [EPFL](https://www.epfl.ch/en/), supervised by [Dr. Katerina Argyraki](https://people.epfl.ch/katerina.argyraki). Previously, I worked at [Network and Systems Group (NSG@LUMS)](https://nsg.lums.edu.pk/) in [LUMS](https://lums.edu.pk/), Pakistan and supervised by [Dr. Ihsan Qazi](https://www.ihsanqazi.com/) and [Dr. Zafar Qazi](https://web.lums.edu.pk/~zafar/). My research interests broadly lie in Internet measurement, network neutrality, and network performance inference. In short, I attempt to make the Internet more transparent. Currently, I'm working on network neutrality in the context of Cloud and CDNs. Please feel free to drop me an email if you have aligned interests. 
+
+You can view more in my [CV](https://people.epfl.ch/muhammad.abdullah?lang=en).
 <br>
 
 ## Education
