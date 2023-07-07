@@ -12,7 +12,6 @@ redirect_from:
 I am a Ph.D. student at the [Network Architecture Lab](https://www.epfl.ch/labs/nal/), [EPFL](https://www.epfl.ch/en/), supervised by Prof. Katerina Argyraki. My research interests broadly lie in Internet measurement, network neutrality, network performance inference, and mobile web. In short, I attempt to make the Internet more transparent. Currently, I am working on network neutrality in the context of Cloud and CDNs. Feel free to drop me an email if you have aligned interests.
 
 <br>
-<br>
 
 **Education**
 <br>
