@@ -13,8 +13,7 @@ I'm a Ph.D. student at the [Network Architecture Lab](https://www.epfl.ch/labs/n
 
 <br>
 
-Education
-======
+### Education
 <div style="display: flex; align-items: center;">
   <img src="./../images/logo-epfl.png" alt="Logo" style="width: 100px; height: auto;">
   <span style="margin-left: 35px;">
@@ -49,8 +48,7 @@ Education
 
 <br>
 
-Work Experience
-======
+### Work Experience
 <div style="display: flex; align-items: center;">
   <img src="./../images/logo-kaist.png" alt="Logo" style="width: 100px; height: auto;">
   <span style="margin-left: 35px;">
@@ -84,8 +82,7 @@ Work Experience
 
 <br>
 
-Publications
-======
+### Publications
 * [Causal Impact of Android Go on Mobile Web Performance](https://dl.acm.org/doi/abs/10.1145/3517745.3561456).  
 **Muhammad Abdullah**, Zafar Ayyub Qazi, Ihsan Ayyub Qazi 
 <strong style="color: red;">Internet Measurement Conference (IMC) 2023</strong>
@@ -100,8 +97,7 @@ Ihsan Ayyub Qazi, Zafar Ayyub Qazi, Ayesha Ali, **Muhammad Abdullah**, Rumaisa H
 
 <br>
 
-Teaching
-======
+### Teaching
 * [CS332: Introduction to Database Systems](https://edu.epfl.ch/coursebook/en/introduction-to-database-systems-CS-322)
 Spring 2023 TA, EPFL
 * [COM208: Computer Networks](https://edu.epfl.ch/coursebook/en/computer-networks-COM-208)
@@ -111,8 +107,7 @@ Spring 2021 TA, LUMS
 
 <br>
 
-Talks
-======
+### Talks
 * [Presented our paper "Causal impact of Android go on mobile web performance"](https://dl.acm.org/doi/abs/10.1145/3517745.3561456)\
 Internet Measurement Conference (IMC) at Nice, France  <span style="color:#808080;">(Oct 2022)</span>
 * [A Primer on Zeek IDS](https://www.nccs.pk/Information/Workshops)\
@@ -122,8 +117,7 @@ Lightning Talks at CERN, Switzerland <span style="color:#808080;">(Jul 2017)</sp
 
 <br>
 
-Awards & Honors
-======
+### Awards & Honors
 * Received [Research Fellowship](https://www.measurementlab.net/blog/research-fellow-announcement/) from [M-LAB](https://www.measurementlab.net/) (led by Google & Internet Society) for our work on localizing network neutrality violations <span style="color:#808080;">(Dec 2021)</span>
 * Gold Medal Awarded by the President of Pakistan for securing 1st position in Master's program <span style="color:#808080;">(Jun 2021)</span>
 * EDIC Computer Science Fellowship, EPFL <span style="color:#808080;">(Jan 2021)</span>
