@@ -111,11 +111,11 @@ Fall 2022 TA, EPFL
 
 Talks
 ======
-* [Presented our paper "Causal impact of Android go on mobile web performance"](https://dl.acm.org/doi/abs/10.1145/3517745.3561456)
+* [Presented our paper "Causal impact of Android go on mobile web performance"](https://dl.acm.org/doi/abs/10.1145/3517745.3561456)\
 Internet Measurement Conference (IMC) at Nice, France  <span style="color:#808080;">(Oct 2022)</span>
-* [A Primer on Zeek IDS](https://www.nccs.pk/Information/Workshops)
+* [A Primer on Zeek IDS](https://www.nccs.pk/Information/Workshops)\
 National Centre for Cyber Security at Lahore, Pakistan <span style="color:#808080;">(Oct 2020)</span>
-* [Network Automation with Brocade Workflow Composer](https://cds.cern.ch/record/2280120)
+* [Network Automation with Brocade Workflow Composer](https://cds.cern.ch/record/2280120)\
 Lightning Talks at CERN, Switzerland <span style="color:#808080;">(Jul 2017)</span>
 
 <br>
