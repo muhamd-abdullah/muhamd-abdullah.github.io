@@ -8,13 +8,88 @@ redirect_from:
   - /about.html
 ---
 
-Muhammad Abdullah is a CS PhD student at EPFL, working on Network Neutrality with Prof. Katerina Argyraki. During the past, he spent time at AMLab at University of Amsterdam advised by Prof. Max Welling and DP Technology supervised by Dr. Linfeng Zhang. He is a passionate community builder, which he founded the series of [*AI for Science workshops*](https://ai4sciencecommunity.github.io/), co-founded a new [*Learning on Graphs conference*](https://logconference.github.io/), led an initiative [*AI for Science 101*](https://ai4science101.github.io/) building knowledge systems for AI for Science. He received Bachelor's degree in Computer Science from George Mason University in 2021. He is very fascinated by Sciences and interested in developing ML tools for scientific problems, especially for new knowledge discovery. He is actively collaborating with researchers in chemistry, biology, physics, and machine learning. He maintains a slack channel for AI for Science, feel free to join and say Hi to people [here](https://join.slack.com/t/aiforscience/shared_invite/zt-1bdof1jmf-YtIjkUVA5DquXguEiOXGPQ)!
 
-**Research Interests**
-  * Network Neutrality
-  * CDNs
-  * Data Science
-  
-**News! Follow me [@Twitter](https://twitter.com/YuanqiD)**
-* 6/23 Received Fellowship from MLab [@MLAB](https://mlab.com/)!
+I am a Ph.D. student at the [Network Architecture Lab](https://www.epfl.ch/labs/nal/), [EPFL](https://www.epfl.ch/en/), supervised by Prof. Katerina Argyraki. My research interests broadly lie in Internet measurement, network neutrality, network performance inference, and mobile web. In short, I attempt to make the Internet more transparent. Currently, I am working on network neutrality in the context of Cloud and CDNs. Feel free to drop me an email if you have aligned interests.
+
+<br>
+<br>
+
+**Education**
+
+<div style="display: flex; align-items: center;">
+  <img src="./../images/logo-epfl.png" alt="Logo" style="width: 100px; height: auto;">
+  <span style="margin-left: 35px;">
+    <strong>EPFL (École polytechnique fédérale de Lausanne)</strong>, Switzerland<br>
+    Ph.D. in Computer Science (2021-)<br>
+    Network Architecture Lab (NAL)
+  </span>
+</div>
+
+<br>
+
+<div style="display: flex; align-items: center;">
+  <img src="./../images/logo-lums.png" alt="Logo" style="width: 100px; height: auto;">
+  <span style="margin-left: 35px;">
+    <strong>LUMS (Lahore University of Management Sciences)</strong>, Pakistan<br>
+    M.Sc in Computer Science (2019-2021)<br>
+    CGPA: 3.93/4.00 (Rank: 1/75)<br>
+    <i>Thesis: "On Evaluating the Impact of Android Go on Mobile Web Browsing"</i>
+  </span>
+</div>
+
+<br>
+
+<div style="display: flex; align-items: center;">
+  <img src="./../images/logo-nust.png" alt="Logo" style="width: 100px; height: auto;">
+  <span style="margin-left: 35px;">
+    <strong>NUST (National University of Sciences & Technology)</strong>, Pakistan<br>
+    B.Eng in Electrical Engineering (2014-2018)<br>
+    CGPA: 3.70/4.00 (Rank: Top 5%)<br>
+  </span>
+</div>
+
+<br>
+<br>
+<br>
+
+**Work Experience**
+
+<div style="display: flex; align-items: center;">
+  <img src="./../images/logo-epfl.png" alt="Logo" style="width: 100px; height: auto;">
+  <span style="margin-left: 35px;">
+    <strong>EPFL (École polytechnique fédérale de Lausanne)</strong>, Switzerland<br>
+    Ph.D. in Computer Science (2021-)<br>
+    Network Architecture Lab (NAL)
+  </span>
+</div>
+
+<br>
+
+<div style="display: flex; align-items: center;">
+  <img src="./../images/logo-lums.png" alt="Logo" style="width: 100px; height: auto;">
+  <span style="margin-left: 35px;">
+    <strong>LUMS (Lahore University of Management Sciences)</strong>, Pakistan<br>
+    M.Sc in Computer Science (2019-2021)<br>
+    CGPA: 3.93/4.00 (Rank: 1/75)<br>
+    <i>Thesis: "On Evaluating the Impact of Android Go on Mobile Web Browsing"</i>
+  </span>
+</div>
+
+<br>
+
+<div style="display: flex; align-items: center;">
+  <img src="./../images/logo-nust.png" alt="Logo" style="width: 100px; height: auto;">
+  <span style="margin-left: 35px;">
+    <strong>NUST (National University of Sciences & Technology)</strong>, Pakistan<br>
+    B.Eng in Electrical Engineering (2014-2018)<br>
+    CGPA: 3.70/4.00 (Rank: Top 5%)<br>
+  </span>
+</div>
+
+<br>
+
+
+
+**News**
+* 1/22 Received [Research Fellowship](https://www.measurementlab.net/blog/research-fellow-announcement/) from [M-LAB](https://www.measurementlab.net/) (led by Google & Internet Society) for our work on localizing network neutrality violations
 * 7/22 Looking forward to your excellent submissions at XYZ!
