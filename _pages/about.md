@@ -102,10 +102,12 @@ Ihsan Ayyub Qazi, Zafar Ayyub Qazi, Ayesha Ali, **Muhammad Abdullah**, Rumaisa H
 
 Teaching
 ======
-* [CS332: Introduction to Database Systems](https://edu.epfl.ch/coursebook/en/introduction-to-database-systems-CS-322).  
+* [CS332: Introduction to Database Systems](https://edu.epfl.ch/coursebook/en/introduction-to-database-systems-CS-322)
 Spring 2023 TA, EPFL
-* [COM208: Computer Networks](https://edu.epfl.ch/coursebook/en/computer-networks-COM-208).  
+* [COM208: Computer Networks](https://edu.epfl.ch/coursebook/en/computer-networks-COM-208)
 Fall 2022 TA, EPFL
+* [CS334: Principles and Techniques of Data Science](https://libguides.lums.edu.pk/ptds)
+Spring 2021 TA, LUMS
 
 <br>
 
