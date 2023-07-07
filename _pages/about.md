@@ -19,7 +19,7 @@ I'm a Ph.D. student at the [Network Architecture Lab (NAL)](https://www.epfl.ch/
   <span style="margin-left: 35px;">
     <strong>EPFL (École polytechnique fédérale de Lausanne)</strong>, Switzerland<br>
     Ph.D. in Computer Science <span style="color:#808080;">(2021-)</span> <br>
-    Advised by Prof. Katerina Argyraki
+    Advised by Dr. Katerina Argyraki
   </span>
 </div>
 
