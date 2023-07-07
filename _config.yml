@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Muhammad Abdullah's Personal Website"
+title                    : "Muhammad Abdullah"
 title_separator          : "-"
 name                     : &name "Muhammad Abdullah"
 description              : &description "personal description"
