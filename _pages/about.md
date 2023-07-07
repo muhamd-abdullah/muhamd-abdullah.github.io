@@ -15,7 +15,7 @@ I am a Ph.D. student at the [Network Architecture Lab](https://www.epfl.ch/labs/
 <br>
 
 **Education**
-
+<br>
 <div style="display: flex; align-items: center;">
   <img src="./../images/logo-epfl.png" alt="Logo" style="width: 100px; height: auto;">
   <span style="margin-left: 35px;">
@@ -48,45 +48,47 @@ I am a Ph.D. student at the [Network Architecture Lab](https://www.epfl.ch/labs/
   </span>
 </div>
 
+
+
 <br>
 <br>
 <br>
+
+
 
 **Work Experience**
-
+<br>
 <div style="display: flex; align-items: center;">
-  <img src="./../images/logo-epfl.png" alt="Logo" style="width: 100px; height: auto;">
+  <img src="./../images/logo-kaist.png" alt="Logo" style="width: 100px; height: auto;">
   <span style="margin-left: 35px;">
-    <strong>EPFL (École polytechnique fédérale de Lausanne)</strong>, Switzerland<br>
-    Ph.D. in Computer Science (2021-)<br>
-    Network Architecture Lab (NAL)
+    <strong>KAIST</strong>, South Korea (Sep 2018 - Aug 2019)<br>
+    Research Assistant<br>
+    (Computer System & Network Lab)<br>
   </span>
 </div>
 
 <br>
 
 <div style="display: flex; align-items: center;">
-  <img src="./../images/logo-lums.png" alt="Logo" style="width: 100px; height: auto;">
+  <img src="./../images/logo-cern.png" alt="Logo" style="width: 100px; height: auto;">
   <span style="margin-left: 35px;">
-    <strong>LUMS (Lahore University of Management Sciences)</strong>, Pakistan<br>
-    M.Sc in Computer Science (2019-2021)<br>
-    CGPA: 3.93/4.00 (Rank: 1/75)<br>
-    <i>Thesis: "On Evaluating the Impact of Android Go on Mobile Web Browsing"</i>
+    <strong>CERN</strong>, Switzerland (Jul 2017 - Sep 2017)<br>
+    Software Engineer Intern<br>
+    (Communications & Networking Team)<br>
   </span>
 </div>
 
 <br>
 
 <div style="display: flex; align-items: center;">
-  <img src="./../images/logo-nust.png" alt="Logo" style="width: 100px; height: auto;">
+  <img src="./../images/logo-xgrid.svg" alt="Logo" style="width: 100px; height: auto;">
   <span style="margin-left: 35px;">
-    <strong>NUST (National University of Sciences & Technology)</strong>, Pakistan<br>
-    B.Eng in Electrical Engineering (2014-2018)<br>
-    CGPA: 3.70/4.00 (Rank: Top 5%)<br>
+    <strong>XGrid</strong>, Pakistan (May 2019 - Aug 2019)<br>
+    Software Engineer<br>
+    (Cloud Deployment Team)
   </span>
 </div>
 
-<br>
 
 
 
