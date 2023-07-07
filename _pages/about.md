@@ -15,7 +15,6 @@ I'm a Ph.D. student at the [Network Architecture Lab](https://www.epfl.ch/labs/n
 
 Education
 ======
-<br>
 <div style="display: flex; align-items: center;">
   <img src="./../images/logo-epfl.png" alt="Logo" style="width: 100px; height: auto;">
   <span style="margin-left: 35px;">
@@ -52,7 +51,6 @@ Education
 
 Work Experience
 ======
-<br>
 <div style="display: flex; align-items: center;">
   <img src="./../images/logo-kaist.png" alt="Logo" style="width: 100px; height: auto;">
   <span style="margin-left: 35px;">
