@@ -95,6 +95,7 @@ Ihsan Ayyub Qazi, Zafar Ayyub Qazi, Ayesha Ali, **Muhammad Abdullah**, Rumaisa H
 Talha Javed , Muhammad Haseeb , **Muhammad Abdullah** , Mobin Javed 
 <strong style="color: red;">SIGCOMM Computer Communication Review (CCR) 2020</strong>
 <br>
+
 ## Teaching
 * [CS332: Introduction to Database Systems](https://edu.epfl.ch/coursebook/en/introduction-to-database-systems-CS-322)
 Spring 2023 TA, EPFL
@@ -103,6 +104,7 @@ Fall 2022 TA, EPFL
 * [CS334: Principles and Techniques of Data Science](https://libguides.lums.edu.pk/ptds)
 Spring 2021 TA, LUMS
 <br>
+
 ## Talks
 * [Presented our paper "Causal impact of Android go on mobile web performance"](https://dl.acm.org/doi/abs/10.1145/3517745.3561456)\
 Internet Measurement Conference (IMC) at Nice, France  <span style="color:#808080;">(Oct 2022)</span>
@@ -111,6 +113,7 @@ National Centre for Cyber Security at Lahore, Pakistan <span style="color:#80808
 * [Network Automation with Brocade Workflow Composer](https://cds.cern.ch/record/2280120)\
 Lightning Talks at CERN, Switzerland <span style="color:#808080;">(Jul 2017)</span>
 <br>
+
 ## Awards & Honors
 * Received [Research Fellowship](https://www.measurementlab.net/blog/research-fellow-announcement/) from [M-LAB](https://www.measurementlab.net/) (led by Google & Internet Society) for our work on localizing network neutrality violations <span style="color:#808080;">(Dec 2021)</span>
 * Gold Medal Awarded by the President of Pakistan for securing 1st position in Master's program <span style="color:#808080;">(Jun 2021)</span>
