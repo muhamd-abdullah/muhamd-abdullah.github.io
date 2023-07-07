@@ -92,7 +92,7 @@ Ihsan Ayyub Qazi, Zafar Ayyub Qazi, Ayesha Ali, **Muhammad Abdullah**, Rumaisa H
 <strong style="color: red;">Hot Topics in Networks (HotNets) 2021</strong>
 
 * [Using Application Layer Banner Data to Automatically Identify IoT Devices](https://dl.acm.org/doi/abs/10.1145/3411740.3411744).  
-Ihsan Ayyub Qazi, Zafar Ayyub Qazi, Ayesha Ali, **Muhammad Abdullah**, Rumaisa Habib 
+Talha Javed , Muhammad Haseeb , **Muhammad Abdullah** , Mobin Javed 
 <strong style="color: red;">SIGCOMM Computer Communication Review (CCR) 2020</strong>
 
 <br>
