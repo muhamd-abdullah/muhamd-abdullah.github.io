@@ -84,7 +84,7 @@ I'm a Ph.D. student at the [Network Architecture Lab (NAL)](https://www.epfl.ch/
 ## Publications
 * [Causal Impact of Android Go on Mobile Web Performance](https://dl.acm.org/doi/abs/10.1145/3517745.3561456).  
 **Muhammad Abdullah**, Zafar Ayyub Qazi, Ihsan Ayyub Qazi\
-<strong style="color: red;">Internet Measurement Conference (IMC) 2023</strong>
+<strong style="color: red;">Internet Measurement Conference (IMC) 2022</strong>
 
 * [Rethinking Web for Affordability and Inclusion](https://dl.acm.org/doi/abs/10.1145/3484266.3487376).  
 Ihsan Ayyub Qazi, Zafar Ayyub Qazi, Ayesha Ali, **Muhammad Abdullah**, Rumaisa Habib\
