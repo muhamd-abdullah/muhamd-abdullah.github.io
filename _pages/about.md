@@ -82,6 +82,14 @@ I'm a Ph.D. student at the [Network Architecture Lab (NAL)](https://www.epfl.ch/
 <br>
 
 ## Publications
+* [Caching and Neutrality](https://dl.acm.org/doi/abs/10.1145/3626111.3628211).  
+**Muhammad Abdullah**, Pavlos Nikolopoulos, Katerina Argyraki\
+<strong style="color: red;">Internet Measurement Conference (IMC) 2022</strong>
+
+* [Localizing Traffic Differentiation](https://dl.acm.org/doi/abs/10.1145/3618257.3624809).  
+Zeinab Shmeis, **Muhammad Abdullah**, Pavlos Nikolopoulos, Katerina Argyraki, David Choffnes , Phillipa Gill\
+<strong style="color: red;">Internet Measurement Conference (IMC) 2023</strong>
+
 * [Causal Impact of Android Go on Mobile Web Performance](https://dl.acm.org/doi/abs/10.1145/3517745.3561456).  
 **Muhammad Abdullah**, Zafar Ayyub Qazi, Ihsan Ayyub Qazi\
 <strong style="color: red;">Internet Measurement Conference (IMC) 2022</strong>
