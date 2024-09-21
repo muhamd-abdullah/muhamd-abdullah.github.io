@@ -86,7 +86,7 @@ My research interests span Network/Web Measurement, Network Inference, Content D
   <img src="./../images/logo-cern.png" alt="Logo" style="width: 100px; height: auto;">
   <span style="margin-left: 35px;">
     <strong>CERN</strong>, Switzerland <span style="color:#808080;">(Jul 2017 - Sep 2017)</span> <br>
-    Software Engineer Intern at Openlab<br>
+    Software Engineer Intern<br>
     (Networking Team)<br>
   </span>
 </div>
