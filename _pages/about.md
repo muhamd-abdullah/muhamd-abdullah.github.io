@@ -117,13 +117,13 @@ Talha Javed , Muhammad Haseeb , **Muhammad Abdullah** , Mobin Javed\
 
 ## Teaching
 * Head TA — [CS202: Computer Systems](https://edu.epfl.ch/coursebook/fr/computer-systems-CS-202)
-Fall 2023, EPFL.
+(Fall 2023, EPFL).
 * Head TA — [CS332: Introduction to Database Systems](https://edu.epfl.ch/coursebook/en/introduction-to-database-systems-CS-322)
-Spring 2023, EPFL.
+(Spring 2023, EPFL).
 * Head TA — [COM208: Computer Networks](https://edu.epfl.ch/coursebook/en/computer-networks-COM-208)
-Fall 2022, EPFL.
+(Fall 2022, EPFL).
 * Head TA — [CS334: Principles and Techniques of Data Science](https://libguides.lums.edu.pk/ptds)
-Spring 2021, LUMS.
+(Spring 2021, LUMS).
 <br>
 
 ## Talks
