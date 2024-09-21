@@ -1,0 +1,50 @@
+def sort_product_codes(order, product_codes):
+  """
+  Sorts product codes lexicographically according to a custom precedence order.
+
+  Args:
+      order: A string representing the precedence of characters.
+      product_codes: A list of product codes (strings).
+
+  Returns:
+      A list of product codes sorted according to the custom precedence order.
+  """
+
+  # Create a dictionary to map characters to their precedence order.
+  char_order = {char: i for i, char in enumerate(order)}
+
+  def custom_key(product_code):
+    """
+    Defines a custom key function for sorting based on precedence.
+
+    Args:
+        product_code: A product code string.
+
+    Returns:
+        A tuple representing the sorting order.
+    """
+
+    diff_indices = []
+    for i, char in enumerate(product_code):
+      for other_code in product_codes:  # Iterate through other codes for comparison
+        if i >= len(other_code):  # Shorter code comes first
+          return ([i], list(product_code), len(other_code))
+        other_char = other_code[i]
+        if char_order[char] != char_order[other_char]:
+          diff_indices.append(i)
+          break  # Only need the first difference
+        # Equal characters, continue comparison
+      else:
+        # No difference found, shorter code comes first
+        return ([], list(product_code), len(other_code))
+      break  # Break out of outer loop once a difference is found
+    return (diff_indices, list(product_code[:len(diff_indices) + 1]), len(other_code))
+
+  # Sort using a custom key function that compares based on precedence
+  return sorted(product_codes, key=lambda code: custom_key(code))
+
+# Example usage (unchanged)
+order = "acdebfghijk/mnopqrstuvwxyz"
+product_codes = ["adc", "abc", "ace", "acg"]
+sorted_codes = sort_product_codes(order, product_codes)
+print(sorted_codes)  # Output: ["abc", "adc"]

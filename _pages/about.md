@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-I'm a Ph.D. student at the [Network Architecture Lab (NAL)](https://www.epfl.ch/labs/nal/), [EPFL](https://www.epfl.ch/en/), supervised by [Dr. Katerina Argyraki](https://people.epfl.ch/katerina.argyraki). Previously, I worked at [Network and Systems Group (NSG@LUMS)](https://nsg.lums.edu.pk/) in [LUMS](https://lums.edu.pk/), Pakistan under the supervision of [Dr. Ihsan Qazi](https://www.ihsanqazi.com/) and [Dr. Zafar Qazi](https://web.lums.edu.pk/~zafar/). My research interests broadly lie in Internet measurement, network neutrality, network performance inference, and CDNs. In short, I work at the intersection of networks and data science to explore ways to make the Internet more transparent and accessible for everyone. Currently, I'm working on network neutrality in the context of cloud providers and CDNs. Please feel free to drop me an email if you have aligned interests. 
+I'm a 4th-year Ph.D. student in CS at the [Network Architecture Lab (NAL)](https://www.epfl.ch/labs/nal/), [EPFL](https://www.epfl.ch/en/), supervised by [Prof. Katerina Argyraki](https://people.epfl.ch/katerina.argyraki). Prior to this, I completed my MS in CS at [LUMS](https://lums.edu.pk/), where I was part of [Network and Systems Group (NSG@LUMS)](https://nsg.lums.edu.pk/), working under the guidance of [Prof. Ihsan Qazi](https://www.ihsanqazi.com/) and [Prof. Zafar Qazi](https://web.lums.edu.pk/~zafar/). 
+
+My research interests span Network/Web Measurement, Network Inference, Content Delivery Networks (CDN), Video Analytics, Performance Metrics, Statistical Inference, and Applied Machine Learning. In essence, I work at the intersection of Computer Networks and Applied Data Science, with the goal of making the Internet more fair, transparent, and inclusive for everyone. Currently, my research focuses on redefining network neutrality for the modern Internet by emperical analyzing the performance of services deployed on public clouds such as adaptive video streaming and social media platforms. Please feel free to drop me an email if you have aligned interests. 
 <br>
 
 ## Education
@@ -17,7 +19,7 @@ I'm a Ph.D. student at the [Network Architecture Lab (NAL)](https://www.epfl.ch/
   <img src="./../images/logo-epfl.png" alt="Logo" style="width: 100px; height: auto;">
   <span style="margin-left: 35px;">
     <strong>EPFL (École polytechnique fédérale de Lausanne)</strong>, Switzerland<br>
-    Ph.D. in Computer Science <span style="color:#808080;">(2021-)</span> <br>
+    Ph.D. in Computer Science <span style="color:#808080;">(2021-Present)</span> <br>
     Advised by Dr. Katerina Argyraki
   </span>
 </div>
@@ -30,7 +32,7 @@ I'm a Ph.D. student at the [Network Architecture Lab (NAL)](https://www.epfl.ch/
     <strong>LUMS (Lahore University of Management Sciences)</strong>, Pakistan<br>
     M.Sc in Computer Science <span style="color:#808080;">(2019-21)</span> <br>
     CGPA: 3.93/4.00 (Rank: 1/75 - President's Gold Medal)<br>
-    <i>Thesis: "On Evaluating the Impact of Android Go on Mobile Web Browsing"</i>
+    <i>Thesis: "Causal Inference on the Impact of Android Go on Mobile Web Performance"</i>
   </span>
 </div>
 
@@ -49,11 +51,21 @@ I'm a Ph.D. student at the [Network Architecture Lab (NAL)](https://www.epfl.ch/
 
 ## Work Experience
 <div style="display: flex; align-items: center;">
+  <img src="./../images/M-LAB_banner.png" alt="Logo" style="width: 100px; height: auto;">
+  <span style="margin-left: 35px;">
+    <strong>M-Lab (led by Google)</strong> <span style="color:#808080;">(Jan 2022 - May 2022)</span> <br>
+    Research Fellow<br>
+  </span>
+</div>
+
+<br>
+
+<div style="display: flex; align-items: center;">
   <img src="./../images/logo-kaist.png" alt="Logo" style="width: 100px; height: auto;">
   <span style="margin-left: 35px;">
     <strong>KAIST</strong>, South Korea <span style="color:#808080;">(Sep 2018 - Jan 2019)</span> <br>
-    Graduate Research Assistant<br>
-    (Computer System & Network Lab)<br>
+    Research Assistant<br>
+    (Computer Systems Lab)<br>
   </span>
 </div>
 
@@ -84,32 +96,34 @@ I'm a Ph.D. student at the [Network Architecture Lab (NAL)](https://www.epfl.ch/
 ## Publications
 * [Caching and Neutrality](https://dl.acm.org/doi/abs/10.1145/3626111.3628211).  
 **Muhammad Abdullah**, Pavlos Nikolopoulos, Katerina Argyraki\
-<strong style="color: red;">Hot Topics in Networks (HotNets) 2023</strong>
+<strong style="color: red;">ACM Hot Topics in Networks (HotNets) 2023</strong>
 
 * [Localizing Traffic Differentiation](https://dl.acm.org/doi/abs/10.1145/3618257.3624809).  
 Zeinab Shmeis, **Muhammad Abdullah**, Pavlos Nikolopoulos, Katerina Argyraki, David Choffnes , Phillipa Gill\
-<strong style="color: red;">Internet Measurement Conference (IMC) 2023</strong>
+<strong style="color: red;">ACM Internet Measurement Conference (IMC) 2023</strong>
 
 * [Causal Impact of Android Go on Mobile Web Performance](https://dl.acm.org/doi/abs/10.1145/3517745.3561456).  
-**Muhammad Abdullah**, Zafar Ayyub Qazi, Ihsan Ayyub Qazi\
-<strong style="color: red;">Internet Measurement Conference (IMC) 2022</strong>
+**Muhammad Abdullah**, Zafar Qazi, Ihsan Qazi\
+<strong style="color: red;">ACM Internet Measurement Conference (IMC) 2022</strong>
 
 * [Rethinking Web for Affordability and Inclusion](https://dl.acm.org/doi/abs/10.1145/3484266.3487376).  
-Ihsan Ayyub Qazi, Zafar Ayyub Qazi, Ayesha Ali, **Muhammad Abdullah**, Rumaisa Habib\
-<strong style="color: red;">Hot Topics in Networks (HotNets) 2021</strong>
+Ihsan Qazi, Zafar Qazi, Ayesha Ali, **Muhammad Abdullah**, Rumaisa Habib\
+<strong style="color: red;">ACM Hot Topics in Networks (HotNets) 2021</strong>
 
 * [Using Application Layer Banner Data to Automatically Identify IoT Devices](https://dl.acm.org/doi/abs/10.1145/3411740.3411744).  
 Talha Javed , Muhammad Haseeb , **Muhammad Abdullah** , Mobin Javed\
-<strong style="color: red;">SIGCOMM Computer Communication Review (CCR) 2020</strong>
+<strong style="color: red;">ACM SIGCOMM Computer Communication Review (CCR) 2020</strong>
 <br>
 
 ## Teaching
-* [CS332: Introduction to Database Systems](https://edu.epfl.ch/coursebook/en/introduction-to-database-systems-CS-322)
-Spring 2023 TA, EPFL
-* [COM208: Computer Networks](https://edu.epfl.ch/coursebook/en/computer-networks-COM-208)
-Fall 2022 TA, EPFL
-* [CS334: Principles and Techniques of Data Science](https://libguides.lums.edu.pk/ptds)
-Spring 2021 TA, LUMS
+* Head TA — [CS202: Computer Systems](https://edu.epfl.ch/coursebook/fr/computer-systems-CS-202)
+Fall 2023, EPFL.
+* Head TA — [CS332: Introduction to Database Systems](https://edu.epfl.ch/coursebook/en/introduction-to-database-systems-CS-322)
+Spring 2023, EPFL.
+* Head TA — [COM208: Computer Networks](https://edu.epfl.ch/coursebook/en/computer-networks-COM-208)
+Fall 2022, EPFL.
+* Head TA — [CS334: Principles and Techniques of Data Science](https://libguides.lums.edu.pk/ptds)
+Spring 2021, LUMS.
 <br>
 
 ## Talks
@@ -122,7 +136,7 @@ Lightning Talks at CERN, Switzerland <span style="color:#808080;">(Jul 2017)</sp
 <br>
 
 ## Awards & Honors
-* Received [Research Fellowship](https://www.measurementlab.net/blog/research-fellow-announcement/) from [M-LAB](https://www.measurementlab.net/) (led by Google & Internet Society) for our work on localizing network neutrality violations <span style="color:#808080;">(Dec 2021)</span>
+* Received [Research Fellowship](https://www.measurementlab.net/blog/research-fellow-announcement/) from [M-Lab](https://www.measurementlab.net/) (led by Google) for our work on localizing network neutrality violations <span style="color:#808080;">(Dec 2021)</span>
 * Gold Medal Awarded by the President of Pakistan for securing 1st position in Master's program <span style="color:#808080;">(Jun 2021)</span>
 * EDIC Computer Science Fellowship, EPFL <span style="color:#808080;">(Jan 2021)</span>
 * Dean's High Achievers Award, NUST <span style="color:#808080;">(Jan 2018)</span>
