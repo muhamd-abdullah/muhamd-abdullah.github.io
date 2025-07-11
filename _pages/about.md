@@ -94,6 +94,10 @@ My research interests span Network/Web Measurement, Network Inference, Content D
 <br>
 
 ## Publications
+* [Edge Caching as Differentiation](https://dl.acm.org/doi/abs/10.1145/3626111.3628211).  
+**Muhammad Abdullah**, Pavlos Nikolopoulos, Katerina Argyraki\
+<strong style="color: red;">ACM SIGCOMM 2025</strong>
+
 * [Caching and Neutrality](https://dl.acm.org/doi/abs/10.1145/3626111.3628211).  
 **Muhammad Abdullah**, Pavlos Nikolopoulos, Katerina Argyraki\
 <strong style="color: red;">ACM Hot Topics in Networks (HotNets) 2023</strong>
