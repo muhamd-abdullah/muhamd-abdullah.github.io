@@ -11,7 +11,7 @@ redirect_from:
 
 I'm a 4th-year Ph.D. student in Computer Science at the [Network Architecture Lab (NAL)](https://www.epfl.ch/labs/nal/), [EPFL](https://www.epfl.ch/en/), supervised by [Prof. Katerina Argyraki](https://people.epfl.ch/katerina.argyraki). Prior to this, I completed my MS in CS at [LUMS](https://lums.edu.pk/), where I was part of [Network and Systems Group (NSG@LUMS)](https://nsg.lums.edu.pk/), working under the guidance of [Prof. Ihsan Qazi](https://www.ihsanqazi.com/) and [Prof. Zafar Qazi](https://web.lums.edu.pk/~zafar/). 
 
-My research interests span Network/Web Measurement, Network Inference, Content Delivery Networks (CDN), Adaptive Video Streaming, Performance Metrics, Statistical Inference, and Applied Machine Learning. In essence, I work at the intersection of Computer Networks and Applied Data Science, with the goal of making the Internet more fair, transparent, and inclusive for everyone. Currently, my research focuses on redefining network neutrality for the modern Internet by empirically analyzing the performance of services deployed on public clouds such as adaptive video streaming and social media platforms. Please feel free to drop me an email if you have aligned interests. 
+My research interests span Internet Measurement, Network Inference, Content Delivery Networks (CDNs), Adaptive Video Streaming, Causal Inference, and Applied Machine Learning. Broadly, I work at the intersection of Computer Networks and Applied Data Science, with the goal of making the Internet more fair, transparent, and inclusive for everyone. Currently, my research focuses on empirically analyzing the performance of services—such as adaptive video streaming and social media platforms—deployed on public clouds. If you have aligned interests, please feel free to reach out via email. 
 <br>
 
 ## Education
@@ -65,7 +65,7 @@ My research interests span Network/Web Measurement, Network Inference, Content D
   <span style="margin-left: 35px;">
     <strong>KAIST</strong>, South Korea <span style="color:#808080;">(Sep 2018 - Jan 2019)</span> <br>
     Research Assistant<br>
-    (Computer Systems Lab)<br>
+    (Networks & Systems Lab)<br>
   </span>
 </div>
 
@@ -87,7 +87,7 @@ My research interests span Network/Web Measurement, Network Inference, Content D
   <span style="margin-left: 35px;">
     <strong>CERN</strong>, Switzerland <span style="color:#808080;">(Jul 2017 - Sep 2017)</span> <br>
     Software Engineer Intern<br>
-    (Networking Team)<br>
+    (Datacenter Networking Team)<br>
   </span>
 </div>
 
@@ -95,7 +95,7 @@ My research interests span Network/Web Measurement, Network Inference, Content D
 
 ## Publications
 * [Edge Caching as Differentiation](https://dl.acm.org/doi/abs/10.1145/3626111.3628211).  
-**Muhammad Abdullah**, Pavlos Nikolopoulos, Katerina Argyraki\
+**Muhammad Abdullah**, Mughees Ur Rehman, Pavlos Nikolopoulos, Katerina Argyraki\
 <strong style="color: red;">ACM SIGCOMM 2025</strong>
 
 * [Caching and Neutrality](https://dl.acm.org/doi/abs/10.1145/3626111.3628211).  
@@ -120,14 +120,16 @@ Talha Javed , Muhammad Haseeb , **Muhammad Abdullah** , Mobin Javed\
 <br>
 
 ## Teaching
+* Head TA — [COM-407: TCP/IP networking](https://edu.epfl.ch/coursebook/en/tcp-ip-networking-COM-407)
+(Fall '24, EPFL).
 * Head TA — [CS202: Computer Systems](https://edu.epfl.ch/coursebook/fr/computer-systems-CS-202)
-(Fall 2023, EPFL).
+(Spring '24, EPFL).
 * Head TA — [CS332: Introduction to Database Systems](https://edu.epfl.ch/coursebook/en/introduction-to-database-systems-CS-322)
-(Spring 2023, EPFL).
+(Spring '23, EPFL).
 * Head TA — [COM208: Computer Networks](https://edu.epfl.ch/coursebook/en/computer-networks-COM-208)
-(Fall 2022, EPFL).
+(Fall '22, EPFL).
 * Head TA — [CS334: Principles and Techniques of Data Science](https://libguides.lums.edu.pk/ptds)
-(Spring 2021, LUMS).
+(Spring '21, LUMS).
 <br>
 
 ## Talks
