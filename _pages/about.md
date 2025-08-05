@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a 4th-year Ph.D. student in Computer Science at the [Network Architecture Lab (NAL)](https://www.epfl.ch/labs/nal/), [EPFL](https://www.epfl.ch/en/), supervised by [Prof. Katerina Argyraki](https://people.epfl.ch/katerina.argyraki). Prior to this, I completed my MS in CS at [LUMS](https://lums.edu.pk/), where I was part of [Network and Systems Group (NSG@LUMS)](https://nsg.lums.edu.pk/), working under the guidance of [Prof. Ihsan Qazi](https://www.ihsanqazi.com/) and [Prof. Zafar Qazi](https://web.lums.edu.pk/~zafar/). 
+I'm a final-year Ph.D. student in Computer Science at the [Network Architecture Lab (NAL)](https://www.epfl.ch/labs/nal/), [EPFL](https://www.epfl.ch/en/), supervised by [Prof. Katerina Argyraki](https://people.epfl.ch/katerina.argyraki). Prior to this, I completed my MS in CS at [LUMS](https://lums.edu.pk/), where I was part of [Network and Systems Group (NSG@LUMS)](https://nsg.lums.edu.pk/), working under the guidance of [Prof. Ihsan Qazi](https://www.ihsanqazi.com/) and [Prof. Zafar Qazi](https://web.lums.edu.pk/~zafar/). 
 
 My research interests span Internet Measurement, Network Inference, Content Delivery Networks (CDNs), Adaptive Video Streaming, Causal Inference, and Applied Machine Learning. Broadly, I work at the intersection of Computer Networks and Applied Data Science, with the goal of making the Internet more fair, transparent, and inclusive for everyone. Currently, my research focuses on empirically analyzing the performance of services—such as adaptive video streaming and social media platforms—deployed on public clouds. If you have aligned interests, please feel free to reach out via email. 
 <br>
@@ -120,7 +120,7 @@ Talha Javed , Muhammad Haseeb , **Muhammad Abdullah** , Mobin Javed\
 <br>
 
 ## Teaching
-* Head TA — [COM-407: TCP/IP networking](https://edu.epfl.ch/coursebook/en/tcp-ip-networking-COM-407)
+* Head TA — [COM407: TCP/IP networking](https://edu.epfl.ch/coursebook/en/tcp-ip-networking-COM-407)
 (Fall '24, EPFL).
 * Head TA — [CS202: Computer Systems](https://edu.epfl.ch/coursebook/fr/computer-systems-CS-202)
 (Spring '24, EPFL).
