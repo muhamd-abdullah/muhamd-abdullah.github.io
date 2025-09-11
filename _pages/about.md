@@ -136,8 +136,11 @@ Talha Javed , Muhammad Haseeb , **Muhammad Abdullah** , Mobin Javed\
 <br>
 
 ## Talks
-* [Presented our paper "Causal impact of Android go on mobile web performance"](https://dl.acm.org/doi/abs/10.1145/3517745.3561456)\
-Internet Measurement Conference (IMC) at Nice, France  <span style="color:#808080;">(Oct 2022)</span>
+* Presented our paper ["Edge Caching as Differentiation"](https://www.youtube.com/watch?v=BWwydRznwnI&t=90s)\
+SIGCOMM 2025 at Coimbra, Portugal  <span style="color:#808080;">(Sep 2025)</span>
+
+* Presented our paper ["Causal impact of Android go on mobile web performance"](https://dl.acm.org/doi/abs/10.1145/3517745.3561456)\
+Internet Measurement Conference (IMC) 2022 at Nice, France  <span style="color:#808080;">(Oct 2022)</span>
 * [A Primer on Zeek IDS](https://www.nccs.pk/Information/Workshops)\
 National Centre for Cyber Security at Lahore, Pakistan <span style="color:#808080;">(Oct 2020)</span>
 * [Network Automation with Brocade Workflow Composer](https://cds.cern.ch/record/2280120)\
@@ -146,7 +149,6 @@ Lightning Talks at CERN, Switzerland <span style="color:#808080;">(Jul 2017)</sp
 
 ## Awards & Honors
 * Received SIGCOMM 2025 [Best Student Paper Award](https://conferences.sigcomm.org/sigcomm/2025/program/papers-info/) for our paper: "Edge Caching as Differentiation" <span style="color:#808080;">(Dec 2021)</span>
-
 * Received [Research Fellowship](https://www.measurementlab.net/blog/research-fellow-announcement/) from [M-Lab](https://www.measurementlab.net/) (led by Google) for our work on localizing network neutrality violations <span style="color:#808080;">(Dec 2021)</span>
 * Gold Medal Awarded by the President of Pakistan for securing overall 1st position in MS program <span style="color:#808080;">(Jun 2021)</span>
 * EDIC Computer Science Fellowship, EPFL <span style="color:#808080;">(Jan 2021)</span>
