@@ -12,6 +12,9 @@ redirect_from:
 I'm a 5th-year Ph.D. student in Computer Science at the [Network Architecture Lab (NAL)](https://www.epfl.ch/labs/nal/), [EPFL](https://www.epfl.ch/en/), supervised by [Prof. Katerina Argyraki](https://people.epfl.ch/katerina.argyraki). Prior to this, I completed my MS in CS at [LUMS](https://lums.edu.pk/), where I was part of [Network and Systems Group (NSG@LUMS)](https://nsg.lums.edu.pk/), working under the guidance of [Prof. Ihsan Qazi](https://www.ihsanqazi.com/) and [Prof. Zafar Qazi](https://web.lums.edu.pk/~zafar/). 
 
 My research interests span Internet Measurement, Network Inference, Content Delivery Networks (CDNs), Adaptive Video Streaming, Causal Inference, and Applied Machine Learning. Broadly, I work at the intersection of Computer Networks and Applied Data Science, with the goal of making the Internet more fair, transparent, and inclusive for everyone. Currently, my research focuses on empirically analyzing the performance of services—such as adaptive video streaming and social media platforms—deployed on public clouds. If you have aligned interests, please feel free to reach out via email. 
+
+**Update**: I'm on the job market, actively seeking roles starting in early 2026.
+
 <br>
 
 ## Education
