@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a final-year Ph.D. student in Computer Science at the [Network Architecture Lab (NAL)](https://www.epfl.ch/labs/nal/), [EPFL](https://www.epfl.ch/en/), supervised by [Prof. Katerina Argyraki](https://people.epfl.ch/katerina.argyraki). Prior to this, I completed my MS in CS at [LUMS](https://lums.edu.pk/), where I was part of [Network and Systems Group (NSG@LUMS)](https://nsg.lums.edu.pk/), working under the guidance of [Prof. Ihsan Qazi](https://www.ihsanqazi.com/) and [Prof. Zafar Qazi](https://web.lums.edu.pk/~zafar/). 
+I'm a 5th-year Ph.D. student in Computer Science at the [Network Architecture Lab (NAL)](https://www.epfl.ch/labs/nal/), [EPFL](https://www.epfl.ch/en/), supervised by [Prof. Katerina Argyraki](https://people.epfl.ch/katerina.argyraki). Prior to this, I completed my MS in CS at [LUMS](https://lums.edu.pk/), where I was part of [Network and Systems Group (NSG@LUMS)](https://nsg.lums.edu.pk/), working under the guidance of [Prof. Ihsan Qazi](https://www.ihsanqazi.com/) and [Prof. Zafar Qazi](https://web.lums.edu.pk/~zafar/). 
 
 My research interests span Internet Measurement, Network Inference, Content Delivery Networks (CDNs), Adaptive Video Streaming, Causal Inference, and Applied Machine Learning. Broadly, I work at the intersection of Computer Networks and Applied Data Science, with the goal of making the Internet more fair, transparent, and inclusive for everyone. Currently, my research focuses on empirically analyzing the performance of services—such as adaptive video streaming and social media platforms—deployed on public clouds. If you have aligned interests, please feel free to reach out via email. 
 <br>
@@ -96,7 +96,7 @@ My research interests span Internet Measurement, Network Inference, Content Deli
 ## Publications
 * [Edge Caching as Differentiation](https://dl.acm.org/doi/abs/10.1145/3626111.3628211).  
 **Muhammad Abdullah**, Mughees Ur Rehman, Pavlos Nikolopoulos, Katerina Argyraki\
-<strong style="color: red;">ACM SIGCOMM 2025</strong>
+<strong style="color: red;">ACM SIGCOMM 2025</strong>  — <strong style="color: green;">🏆 Best Student Paper Award</strong>
 
 * [Caching and Neutrality](https://dl.acm.org/doi/abs/10.1145/3626111.3628211).  
 **Muhammad Abdullah**, Pavlos Nikolopoulos, Katerina Argyraki\
@@ -142,8 +142,10 @@ Lightning Talks at CERN, Switzerland <span style="color:#808080;">(Jul 2017)</sp
 <br>
 
 ## Awards & Honors
+* Received SIGCOMM 2025 [Best Student Paper Award](https://conferences.sigcomm.org/sigcomm/2025/program/papers-info/) for our paper: "Edge Caching as Differentiation" <span style="color:#808080;">(Dec 2021)</span>
+
 * Received [Research Fellowship](https://www.measurementlab.net/blog/research-fellow-announcement/) from [M-Lab](https://www.measurementlab.net/) (led by Google) for our work on localizing network neutrality violations <span style="color:#808080;">(Dec 2021)</span>
-* Gold Medal Awarded by the President of Pakistan for securing 1st position in Master's program <span style="color:#808080;">(Jun 2021)</span>
+* Gold Medal Awarded by the President of Pakistan for securing overall 1st position in MS program <span style="color:#808080;">(Jun 2021)</span>
 * EDIC Computer Science Fellowship, EPFL <span style="color:#808080;">(Jan 2021)</span>
 * Dean's High Achievers Award, NUST <span style="color:#808080;">(Jan 2018)</span>
 * One of the 40 students selected globally for KAIST Electrical Engineering Camp <span style="color:#808080;">(Jan 2018)</span>
