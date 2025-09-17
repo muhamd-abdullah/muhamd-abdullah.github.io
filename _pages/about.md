@@ -13,7 +13,7 @@ I'm a 5th-year Ph.D. student in Computer Science at the [Network Architecture La
 
 My research interests span Internet Measurement, Network Inference, Content Delivery Networks (CDNs), Adaptive Video Streaming, Causal Inference, and Applied Machine Learning. Broadly, my work lies at the intersection of Networking and Data Science, aiming to make the Internet fair and more transparent.
 
-Currently, my research focuses on empirically analyzing the user-perceived performance of services—such as adaptive video streaming and social media platforms—deployed on large public clouds. If you have aligned interests, please feel free to reach out via email.
+Currently, my research focuses empirically analyzing disparities in user-perceived performance of services—such as video streaming and social media—deployed on large public clouds. If you have aligned interests, please feel free to reach out via email.
 
 **Update**: I'm on the job market, actively seeking roles starting in early 2026.
 
