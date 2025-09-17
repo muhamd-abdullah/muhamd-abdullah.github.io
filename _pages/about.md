@@ -100,7 +100,7 @@ My research interests span Internet Measurement, Network Inference, Content Deli
 <br>
 
 ## Publications
-* [Edge Caching as Differentiation](https://dl.acm.org/doi/abs/10.1145/3626111.3628211).  
+* [Edge Caching as Differentiation](https://dl.acm.org/doi/10.1145/3718958.3754350).  
 **Muhammad Abdullah**, Mughees Ur Rehman, Pavlos Nikolopoulos, Katerina Argyraki\
 <strong style="color: red;">ACM SIGCOMM 2025</strong> (acceptance rate: 16%)  — <strong style="color: green;">🏆 Best Student Paper Award</strong>
 
