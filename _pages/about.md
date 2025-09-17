@@ -24,7 +24,7 @@ Currently, my research focuses empirically analyzing disparities in user-perceiv
   <span style="margin-left: 35px;">
     <strong>EPFL (École polytechnique fédérale de Lausanne)</strong>, Switzerland<br>
     Ph.D. in Computer Science <span style="color:#808080;">(2021-Present)</span> <br>
-    Advisor: Katerina Argyraki (Network Architecture Lab) <br>
+    Advisor: Katerina Argyraki<br>
     Thesis: <i>"CDN Edge Caching as Implicit Differentiation"</i>
   </span>
 </div>
@@ -48,7 +48,7 @@ Currently, my research focuses empirically analyzing disparities in user-perceiv
   <span style="margin-left: 35px;">
     <strong>NUST (National University of Sciences & Technology)[Link]</strong>, Pakistan<br>
     B.Eng in Electrical Engineering <span style="color:#808080;">(2014-18)</span> <br>
-    Major CGPA: 3.70/4.00 (Rank: Top 5% in 255)<br>
+    CGPA: 3.70/4.00 (Rank: Top 5%)<br>
     Project: <i>"Machine Learning-Based Auto-Inflating Hip Protection Jacket for Elderly"</i>
   </span>
 </div>
