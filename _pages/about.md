@@ -144,11 +144,11 @@ Talha Javed , Muhammad Haseeb , **Muhammad Abdullah** , Mobin Javed\
 SIGCOMM 2025 at Coimbra, Portugal  <span style="color:#808080;">(Sep 2025)</span>
 
 * ["Causal impact of Android go on mobile web performance"](https://dl.acm.org/doi/abs/10.1145/3517745.3561456)\
-Internet Measurement Conference (IMC) 2022 at Nice, France  <span style="color:#808080;">(Oct 2022)</span>
+IMC 2022 at Nice, France  <span style="color:#808080;">(Oct 2022)</span>
 * ["A Primer on Zeek IDS"](https://www.nccs.pk/Information/Workshops)\
 National Centre for Cyber Security, Pakistan <span style="color:#808080;">(Oct 2020)</span>
 * ["Network Automation with Brocade Workflow Composer"](https://cds.cern.ch/record/2280120)\
-Lightning Talks at CERN, Switzerland <span style="color:#808080;">(Jul 2017)</span>
+CERN Lightning Talks, Switzerland <span style="color:#808080;">(Jul 2017)</span>
 <br>
 
 ## Awards & Honors
