@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I'm a 5th-year Ph.D. student in Computer Science at the [Network Architecture Lab (NAL)](https://www.epfl.ch/labs/nal/), [EPFL](https://www.epfl.ch/en/), supervised by [Prof. Katerina Argyraki](https://people.epfl.ch/katerina.argyraki). Prior to this, I completed my MS in CS at [LUMS](https://lums.edu.pk/), where I was part of [Network and Systems Group (NSG@LUMS)](https://nsg.lums.edu.pk/), working under the guidance of [Prof. Ihsan Qazi](https://www.ihsanqazi.com/). 
+I'm a 5th-year Ph.D. student in Computer Science at the [Network Architecture Lab (NAL)](https://www.epfl.ch/labs/nal/), [EPFL](https://www.epfl.ch/en/), supervised by [Prof. Katerina Argyraki](https://people.epfl.ch/katerina.argyraki). Prior to this, I completed my MS in CS at [LUMS](https://lums.edu.pk/), where I was part of [Network and Systems Group](https://nsg.lums.edu.pk/), working under the guidance of [Prof. Ihsan Qazi](https://www.ihsanqazi.com/). 
 
-My research interests span Internet Measurement, Network Inference, Content Delivery Networks (CDNs), Adaptive Video Streaming, Causal Inference, and Applied Machine Learning. Broadly, I work at the intersection of Computer Networks and Data Science, with the goal of making the Internet fair and transparent. My current research focuses on empirically analyzing the user-perceived performance of services—such as adaptive video streaming and social media platforms—deployed on large public clouds. If you have aligned interests, please feel free to reach out via email. 
+My research interests span Internet Measurement, Network Inference, Content Delivery Networks (CDNs), Adaptive Video Streaming, Causal Inference, and Applied Machine Learning. Broadly, I work at the intersection of Networking and Data Science, with the goal of making the Internet more fair and transparent. My current research focuses on empirically analyzing the user-perceived performance of services—such as adaptive video streaming and social media platforms—deployed on large public clouds. If you have aligned interests, please feel free to reach out via email. 
 
 **Update**: I'm on the job market, actively seeking roles starting in early 2026.
 
