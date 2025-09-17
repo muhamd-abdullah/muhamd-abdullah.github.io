@@ -123,7 +123,7 @@ Ihsan Qazi, Zafar Qazi, Ayesha Ali, **Muhammad Abdullah**, Rumaisa Habib\
 
 * [Using Application Layer Banner Data to Automatically Identify IoT Devices](https://dl.acm.org/doi/abs/10.1145/3411740.3411744).  
 Talha Javed , Muhammad Haseeb , **Muhammad Abdullah** , Mobin Javed\
-<strong style="color: red;">ACM SIGCOMM Computer Communication Review (CCR) 2020</strong>
+<strong style="color: red;">ACM SIGCOMM CCR 2020</strong>
 <br>
 
 ## Teaching
