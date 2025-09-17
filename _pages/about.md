@@ -142,7 +142,6 @@ Talha Javed , Muhammad Haseeb , **Muhammad Abdullah** , Mobin Javed\
 ## Talks
 * ["Edge Caching as Differentiation"](https://www.youtube.com/watch?v=BWwydRznwnI&t=88s)\
 SIGCOMM 2025 at Coimbra, Portugal  <span style="color:#808080;">(Sep 2025)</span>
-
 * ["Causal impact of Android go on mobile web performance"](https://dl.acm.org/doi/abs/10.1145/3517745.3561456)\
 IMC 2022 at Nice, France  <span style="color:#808080;">(Oct 2022)</span>
 * ["A Primer on Zeek IDS"](https://www.nccs.pk/Information/Workshops)\
