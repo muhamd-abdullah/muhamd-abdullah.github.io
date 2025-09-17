@@ -111,11 +111,11 @@ Currently, my research focuses empirically analyzing disparities in user-perceiv
 
 * [Localizing Traffic Differentiation](https://dl.acm.org/doi/abs/10.1145/3618257.3624809).  
 Zeinab Shmeis, **Muhammad Abdullah**, Pavlos Nikolopoulos, Katerina Argyraki, David Choffnes , Phillipa Gill\
-<strong style="color: red;">ACM Internet Measurement Conference (IMC) 2023</strong>
+<strong style="color: red;">ACM Internet Measurement Conference (IMC) 2023</strong> (acceptance rate: 25%)
 
 * [Causal Impact of Android Go on Mobile Web Performance](https://dl.acm.org/doi/abs/10.1145/3517745.3561456).  
 **Muhammad Abdullah**, Zafar Qazi, Ihsan Qazi\
-<strong style="color: red;">ACM Internet Measurement Conference (IMC) 2022</strong>
+<strong style="color: red;">ACM Internet Measurement Conference (IMC) 2022</strong> (acceptance rate: 26%)
 
 * [Rethinking Web for Affordability and Inclusion](https://dl.acm.org/doi/abs/10.1145/3484266.3487376).  
 Ihsan Qazi, Zafar Qazi, Ayesha Ali, **Muhammad Abdullah**, Rumaisa Habib\
