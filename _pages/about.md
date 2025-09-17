@@ -56,7 +56,7 @@ My research interests span Internet Measurement, Network Inference, Content Deli
 
 ## Experience
 <div style="display: flex; align-items: center;">
-  <img src="./../images/google.png" alt="Logo" style="width: 100px; height: auto;">
+  <img src="./../images/google2.png" alt="Logo" style="width: 100px; height: auto;">
   <span style="margin-left: 35px;">
     <strong>Measurement Lab (led by Google)</strong> <span style="color:#808080;">(Jan 2022 - May 2022)</span> <br>
     Research Fellow <br>
