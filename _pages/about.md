@@ -16,7 +16,6 @@ My research interests span Internet Measurement, Network Inference, Content Deli
 Currently, my research focuses empirically analyzing disparities in user-perceived performance of services—such as video streaming and social media—deployed on large public clouds. If you have aligned interests, please feel free to reach out via email.
 
 <strong style="color: red;">Update:</strong> I'm on the job market, actively seeking roles starting in early 2026.
-
 <br>
 
 ## Education
