@@ -11,9 +11,9 @@ redirect_from:
 
 I'm a 5th-year Ph.D. student in Computer Science at the [Network Architecture Lab (NAL)](https://www.epfl.ch/labs/nal/), [EPFL](https://www.epfl.ch/en/), supervised by [Prof. Katerina Argyraki](https://people.epfl.ch/katerina.argyraki). Prior to this, I completed my M.S. in Computer Science at [LUMS](https://lums.edu.pk/), where I was part of the [Network and Systems Group](https://nsg.lums.edu.pk/), working under the guidance of [Prof. Ihsan Qazi](https://www.ihsanqazi.com/).  
 
-My research interests span Internet Measurement, Network Inference, Content Delivery Networks (CDNs), Adaptive Video Streaming, Causal Inference, and Applied Machine Learning. Broadly, my work lies at the intersection of Networking and Data Science, aiming to make the Internet fair and more transparent.
+My research interests span Internet measurement, network analytics, Content Delivery Networks (CDNs), adaptive video streaming, causal inference, and applied ML. Broadly, my work operates at the intersection of networking and data science, with the overarching goal of making the Internet fairer and more transparent.
 
-Currently, my research focuses empirically analyzing disparities in user-perceived performance of services—such as video streaming and social media—deployed on large public clouds. If you have aligned interests, please feel free to reach out via email.
+Currently, my research empirically analyzes disparities in user QoE arising from CDN edge caching, focusing on services such as video streaming and social media deployed on large public clouds. If you have aligned interests, please feel free to reach out via email.
 
 <strong style="color: red;">Update:</strong> I'm on the job market, actively seeking roles starting in early 2026.
 <br>
@@ -59,9 +59,9 @@ Currently, my research focuses empirically analyzing disparities in user-perceiv
 <div style="display: flex; align-items: center;">
   <img src="./../images/google2.png" alt="Logo" style="width: 100px; height: auto;">
   <span style="margin-left: 35px;">
-    <strong>Measurement Lab (led by Google)</strong> <span style="color:#808080;">(Jan 2022 - May 2022)</span> <br>
-    Research Fellow <br>
-    Advisors: Phillipa Gill (Google), David Choffnes (Northeastern U)<br>
+    <strong>M-Lab (led by Google)</strong> <span style="color:#808080;">(Jan 2022 - May 2022)</span> <br>
+    Student Researcher <br>
+    Advisors: Phillipa Gill (Google), David Choffnes (Northeastern)<br>
   </span>
 </div>
 
@@ -83,7 +83,7 @@ Currently, my research focuses empirically analyzing disparities in user-perceiv
   <span style="margin-left: 35px;">
     <strong>XGrid/PLUMgrid (acquired by VMWare)</strong>, Pakistan <span style="color:#808080;">(May 2019 - Aug 2019)</span> <br>
     Software Engineer<br>
-    AWS & Oracle Cloud Deployment Team
+    Cloud Deployment Team
   </span>
 </div>
 
@@ -129,7 +129,7 @@ Talha Javed , Muhammad Haseeb , **Muhammad Abdullah** , Mobin Javed\
 ## Teaching
 * Head TA — [COM407: TCP/IP networking](https://edu.epfl.ch/coursebook/en/tcp-ip-networking-COM-407)
 (Fall '24, EPFL)
-* TA (Networking Labs) — [CS202: Computer Systems](https://edu.epfl.ch/coursebook/fr/computer-systems-CS-202)
+* TA — [CS202: Computer Systems](https://edu.epfl.ch/coursebook/fr/computer-systems-CS-202)
 (Spring '24, EPFL)
 * TA — [CS332: Introduction to Database Systems](https://edu.epfl.ch/coursebook/en/introduction-to-database-systems-CS-322)
 (Spring '23, EPFL)
@@ -151,11 +151,11 @@ CERN Lightning Talks, Switzerland <span style="color:#808080;">(Jul 2017)</span>
 <br>
 
 ## Awards & Honors
-* SIGCOMM 2025 [Best Student Paper Award](https://conferences.sigcomm.org/sigcomm/2025/program/papers-info/) <span style="color:#808080;">(Dec 2021)</span>
+* SIGCOMM '25 [Best Student Paper Award](https://conferences.sigcomm.org/sigcomm/2025/program/papers-info/) <span style="color:#808080;">(Dec 2021)</span>
 * [Research Fellowship](https://www.measurementlab.net/blog/research-fellow-announcement/) from [M-Lab](https://www.measurementlab.net/) (led by **Google**) for our work on localizing network neutrality violations <span style="color:#808080;">(Dec 2021)</span>
 * Gold Medal Awarded by the President of Pakistan for securing overall 1st position in MS program <span style="color:#808080;">(Jun 2021)</span>
 * EDIC Computer Science Fellowship, EPFL <span style="color:#808080;">(Jan 2021)</span>
 * Dean's High Achievers Award, NUST <span style="color:#808080;">(Jan 2018)</span>
 * One of the 40 students selected globally for **KAIST** Electrical Engineering Camp <span style="color:#808080;">(Jan 2018)</span>
-* One of the 37 students selected globally for **CERN's** Openlab Internship Program (acceptance rate: 2.3%) <span style="color:#808080;">(Jan 2017)</span>
+* One of the 37 students selected globally for **CERN's** Openlab Program (acceptance rate: 2.3%) <span style="color:#808080;">(Jan 2017)</span>
 
