@@ -15,7 +15,7 @@ My research interests span Internet measurement, network analytics, Content Deli
 
 Currently, my research empirically analyzes disparities in user QoE arising from CDN edge caching, focusing on services such as video streaming and social media deployed on large public clouds. If you have aligned interests, please feel free to reach out via email.
 
-<strong style="color: red;">Update:</strong> I'm on the job market, actively seeking roles starting in early 2026.
+<strong style="color: red;">Update:</strong> I'm on the job market, actively seeking roles starting in late 2026.
 <br>
 
 ## Education
